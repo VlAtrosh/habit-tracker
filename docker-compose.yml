@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  habit-tracker:
+    build: .
+    container_name: habit-tracker-app
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
