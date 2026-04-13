@@ -10,4 +10,7 @@
 
 ## Установка и запуск
 ```bash
-python main.py
+python main.py"# Categories feature" 
+"" 
+"## New in v1.1" 
+"- Added habit categories (Health, Work, Personal)" 
