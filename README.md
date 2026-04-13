@@ -11,3 +11,5 @@
 ## Установка и запуск
 ```bash
 python main.py
+
+<img width="376" height="274" alt="Снимок экрана (5)" src="https://github.com/user-attachments/assets/efd85967-2dd6-413f-9b12-4b5a1dc2027c" />
